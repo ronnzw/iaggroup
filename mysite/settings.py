@@ -25,7 +25,7 @@ SECRET_KEY = '2o@%dip+a3v(!&=vn0=z*&mwt7(7uj2a6#a4q%gricpb=*n1%)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', 'www.intellectafrica.group']
 
 
 # Application definition
